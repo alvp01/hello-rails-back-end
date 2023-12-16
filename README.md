@@ -13,7 +13,7 @@
 - [📖 Rails Greetings API app ](#-rails-greetings-api-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-  - [🔗 Integration with Hello Rails Front-End ](#-integration-with-hello-rails-front-end-)
+  - [🔗 Integration with Hello React Front-End ](#-integration-with-hello-react-front-end-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -50,7 +50,7 @@
 **Database**
 <a href="https://www.postgresql.org/">PostgreSQL</a>
 
-## 🔗 Integration with Hello Rails Front-End <a name="integration-with-hello-rails-front-end"></a>
+## 🔗 Integration with Hello React Front-End <a name="integration-with-hello-rails-front-end"></a>
 
 The front-end link [Hello Rails Front-End](https://github.com/alvp01/hello-react-front-end) project.
 
