@@ -106,7 +106,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd hello-rails-react
+  cd hello-rails-back-end
   bundle install
 ```
 
